@@ -1,0 +1,5 @@
+{
+  "name": "Enterprise IT Support & Asset Management",
+  "description": "A centralized IT Support web application to manage IT complaints, infrastructure checks, asset lifecycle, and more for all departments of an organization. This is the web admin panel for IT staff and managers.",
+  "requestFramePermissions": []
+}
